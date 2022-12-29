@@ -1,0 +1,1 @@
+Little project to reproduce an issue with security rules of Cloud Storage
